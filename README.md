@@ -31,17 +31,3 @@ i'm Starfront <br>learning that I think is interesting
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Starfront7/Starfront7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Starfront7/Starfront7/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Starfront7/Starfront7/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-  
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Starfront7/Starfront7/snake-output/snake.svg" alt="Snake animation" />
-
-###
